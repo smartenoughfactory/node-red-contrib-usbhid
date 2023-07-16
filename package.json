@@ -14,7 +14,7 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/robertsLando/node-red-contrib-usbhid.git"
+    "url": "git+https://github.com/smartenoughfactory/node-red-contrib-usbhid.git"
   },
   "dependencies": {
     "node-hid": "=2.1.2"
